@@ -1,0 +1,13 @@
+# 虚拟环境
+trace_anim/
+venv/
+env/
+# 程序输出图片（本地生成，不用上传仓库）
+output/
+# 缓存文件
+__pycache__/
+*.pyc
+*.log
+# 系统文件
+.DS_Store
+Thumbs.db
